@@ -8,7 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarkhodovIslom&show_icons=true&theme=radical)
 
 ### 🚀 Навыки:  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,react,ts,nextjs,nodejs,express,tailwind,mongodb,postgres,git,github)](https://skillicons.dev)
 
 ---
 📩 **Связаться со мной:**  
