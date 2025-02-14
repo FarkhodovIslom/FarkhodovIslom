@@ -9,8 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarkhodovIslom&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=FarkhodovIslom&theme=dark)  
-
 ### 🚀 Навыки:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,react,ts,nextjs,nodejs,express,tailwind,mongodb,postgres,git,github)](https://skillicons.dev)
 
