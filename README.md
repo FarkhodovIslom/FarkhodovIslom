@@ -1,7 +1,7 @@
 # 👋 Привет, я Hanzo!  
 
 🚀 **Front-End / Full-Stack Разработчик**  
-💻 Опыт: React, Node.js, TypeScript, Next.js  
+💻 Опыт: React, Node.js, TypeScript, Next.js, OpenAI, HuggingFace 
 🎯 Создаю удобные, быстрые и адаптивные веб-приложения  
 
 ### 📊 Статистика профиля:  
