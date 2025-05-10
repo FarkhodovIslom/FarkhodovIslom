@@ -22,5 +22,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,react,ts,nextjs,nodejs,express,tailwind,mongodb,postgres,git,github)](https://skillicons.dev)
 
 ---
-📩 **Хочешь что-то крутое?:**  
+📩 **Хочешь что-то крутое? Тогда напиши мне, не стесняйся**  
 📌 [Telegram](https://t.me/Farkhodov_2077) | [Email](mailto:farkhodovislom2006@gmail.com) | [Портфолио](https://hanzo-dev.uz)
