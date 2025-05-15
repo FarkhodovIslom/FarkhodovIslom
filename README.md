@@ -1,26 +1,35 @@
-# 👋 Привет, я Hanzo — веб разработчик
+# 👋 Hi, I’m **Hanzo** — Web Developer  
+### 🧠 Full-Stack Wizard • 🖌️ UI/UX Enthusiast • 🤖 AI Integrator  
 
-### 🧠 Full-Stack Wizard • 🖌️ UI/UX Энтузиаст • 🤖 AI Интегратор  
+🚀 I specialize in building powerful, responsive, and beautiful web applications  
+that don’t just **work** — they **wow** from the very first click.
 
-🚀 Специализируюсь на создании мощных, адаптивных и красивых веб-приложений,  
-которые не просто работают — а **захватывают** с первого клика.
+> 🔥 Check out my portfolio: [**hanzo-dev.uz**](https://hanzo-dev.uz)
 
-**💼 Технологии, с которыми дружу:**
-- Frontend: `React`, `Next.js`, `TailwindCSS`
-- Backend: `Node.js`, `Express`, `MongoDB`
-- ИИ: `OpenAI`, `HuggingFace`, `LLMs`, `Image Generation`
-- Плюс: `TypeScript`, `REST API`, `Cloudinary`, `Telegram Bots`
+---
 
-🧪 Сейчас в фокусе: кастомные AI-решения, нейронки, Telegram-боты и стартапы под брендом **Hanzo-Dev**.
+### 💼 Tech Stack:
+- **Frontend:** `React`, `Next.js`, `TailwindCSS`
+- **Backend:** `Node.js`, `Express`, `MongoDB`
+- **AI & ML:** `OpenAI`, `HuggingFace`, `LLMs`, `Image Generation`
+- **Others:** `TypeScript`, `REST API`, `Cloudinary`, `Telegram Bots`
 
-### 📊 Статистика профиля:  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarkhodovIslom&show_icons=true&theme=radical)
+🧪 Currently focused on: custom AI tools, neural networks, Telegram bots, and launching startups under the **Hanzo-Dev** brand.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarkhodovIslom&layout=compact&theme=radical)  
+---
 
-### 🚀 Навыки:  
+### 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarkhodovIslom&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarkhodovIslom&layout=compact&theme=radical)
+
+---
+
+### 🚀 Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,react,ts,nextjs,nodejs,express,tailwind,mongodb,postgres,git,github)](https://skillicons.dev)
 
 ---
-📩 **Хочешь что-то крутое? Тогда напиши мне, не стесняйся**  
-📌 [Telegram](https://t.me/Farkhodov_2077) | [Email](mailto:farkhodovislom2006@gmail.com) | [Портфолио](https://hanzo-dev.uz)
+
+## 📬 Contact Me
+- 📱 [**Telegram**](https://t.me/Farkhodov_2077)  
+- 📧 [**Email**](mailto:farkhodovislom2006@gmail.com)  
+- 🌐 [**Portfolio**](https://hanzo-dev.uz)
