@@ -14,7 +14,7 @@ that don’t just **work** — they **wow** from the very first click.
 - **AI & ML:** `OpenAI`, `HuggingFace`, `LLMs`, `Image Generation`
 - **Others:** `TypeScript`, `REST API`, `Cloudinary`, `Telegram Bots`
 
-🧪 Currently focused on: custom AI tools, neural networks, Telegram bots, and launching startups under the **Hanzo-Dev** brand.
+🧪 Currently focused on: custom AI tools, neural networks, Full-stack web apps, and launching startups under the **Hanzo-Dev** brand.
 
 ---
 
