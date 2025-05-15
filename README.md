@@ -20,7 +20,7 @@ that don’t just **work** — they **wow** from the very first click.
 
 ### 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarkhodovIslom&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarkhodovIslom&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarkhodovIslom&layout=compact&theme=radical&langs_count=10)
 
 ---
 
