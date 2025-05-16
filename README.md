@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Hanzo** — Web Developer  
-### 🧠 Full-Stack Wizard • 🖌️ UI/UX Enthusiast • 🤖 AI Integrator  
+### 🧠 Full-Stack Wizard • 🖌️ UI/UX Designer • 🤖 AI/ML Enthusiast  
 
 🚀 I specialize in building powerful, responsive, and beautiful web applications  
 that don’t just **work** — they **wow** from the very first click.
