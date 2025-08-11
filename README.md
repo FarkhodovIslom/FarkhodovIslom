@@ -25,7 +25,7 @@ that don’t just **work** — they **wow** from the very first click.
 ---
 
 ### 🚀 Skills:
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,tailwind,js,react,nextjs,vuejs,ts,nodejs,express,nestjs,mongodb,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,html,css,sass,bootstrap,tailwind,js,react,nextjs,vuejs,ts,nodejs,express,nestjs,mongodb,postgres,prisma,graphql,python,pythorch,)](https://skillicons.dev)
 
 ---
 
