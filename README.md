@@ -12,7 +12,7 @@ that don’t just **work** — they **wow** from the very first click.
 - **Frontend:** `React`, `Next.js`, `TailwindCSS`
 - **Backend:** `Node.js`, `Express`, `MongoDB`
 - **AI & ML:** `OpenAI`, `HuggingFace`, `LLMs`, `Image Generation`
-- **Others:** `TypeScript`, `REST API`, `Cloudinary`, `Telegram Bots`
+- **Others:** `GraphQL`, `REST API`, `Cloudinary`, `Telegram Bots`
 
 🧪 Currently focused on: custom AI tools, neural networks, Full-stack web apps, and launching startups under the **Hanzo-Dev** brand.
 
