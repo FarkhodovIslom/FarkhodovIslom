@@ -1,35 +1,41 @@
-# 👋 Hi, I’m **Hanzo** — Software engineer   
-### 🧠 Full-Stack Wizard • 🖌️ UI/UX Designer • 🤖 AI/ML Enthusiast  
+# 👋 **Hanzo — Software Engineer & Full-Stack Developer**  
+### ⚡ Full-Stack • 🎨 UI/UX • 🤖 AI/ML  
 
-🚀 I specialize in building powerful, responsive, and beautiful web applications  
-that don’t just **work** — they **wow** from the very first click.
+I build clean, fast, and scalable web applications.  
+Focused on modern UI, smooth UX, and reliable architecture — from frontend to backend and AI systems.
 
-> 🔥 Check out my portfolio: [**hanzo-dev.uz**](https://hanzo-dev.uz)
-
----
-
-### 💼 Tech Stack:
-- **Frontend:** `React`, `Next.js`, `TailwindCSS`
-- **Backend:** `Node.js`, `Express`, `MongoDB`
-- **AI & ML:** `OpenAI`, `HuggingFace`, `LLMs`, `Image Generation`
-- **Others:** `GraphQL`, `REST API`, `Cloudinary`, `Telegram Bots`
-
-🧪 Currently focused on: custom AI tools, neural networks, Full-stack web apps, and launching startups under the **Hanzo-Dev** brand.
+> 🌐 Portfolio: **https://hanzo-dev.uz**
 
 ---
 
-### 📊 GitHub Stats:
+## ⚙️ **Tech Stack**
+**Frontend:** React, Next.js, Vuejs, TailwindCSS, Vite  
+**Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL, Prisma  
+**AI / ML:** OpenAI, HuggingFace, LLMs, Embeddings, Image/Voice Generation  
+**Tools / DevOps:** Docker, Git, Cloudflare, VPS, CI/CD  
+**Other:** GraphQL, REST APIs, WebGL, Discord/Telegram bots
+
+---
+
+## 🚀 **Currently Working On**
+- **Sonar AI** — custom LLM-based tools and infrastructure  
+- Full-stack products under the **Hanzo-Dev** brand  
+- AI assistants, automation tools, and performance-oriented web apps
+
+---
+
+## 📊 **GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarkhodovIslom&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarkhodovIslom&layout=compact&theme=radical&langs_count=10)
 
 ---
 
-### 🚀 Skills:
-[![My Skills](https://skillicons.dev/icons?i=figma,vite,html,css,sass,bootstrap,tailwind,js,react,nextjs,vuejs,ts,nodejs,express,nestjs,mongodb,postgres,prisma,graphql,python,pythorch,)](https://skillicons.dev)
+## 🛠️ **Skills**
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,html,css,sass,bootstrap,tailwind,js,react,nextjs,vue,ts,nodejs,express,nestjs,mongodb,postgres,prisma,graphql,python,pytorch,docker)](https://skillicons.dev)
 
 ---
 
-## 📬 Contact Me
-- 📱 [**Telegram**](https://t.me/Farkhodov_2077)  
-- 📧 [**Email**](mailto:farkhodovislom2006@gmail.com)  
-- 🌐 [**Portfolio**](https://hanzo-dev.uz)
+## 📬 **Contact**
+- 📱 **Telegram:** @Farkhodov_2077  
+- ✉️ **Email:** farkhodovislom2006@gmail.com  
+- 🌐 **Portfolio:** https://hanzo-dev.uz
