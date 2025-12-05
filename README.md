@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Hanzo** — Web Developer  
+# 👋 Hi, I’m **Hanzo** — Software engineer   
 ### 🧠 Full-Stack Wizard • 🖌️ UI/UX Designer • 🤖 AI/ML Enthusiast  
 
 🚀 I specialize in building powerful, responsive, and beautiful web applications  
