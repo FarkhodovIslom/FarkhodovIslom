@@ -29,6 +29,10 @@ Focused on modern UI, smooth UX, and reliable architecture — from frontend to 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farkhodovislom&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farkhodovislom&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farkhodovislom&theme=react-dark)
+
 ---
 
 ## 🛠️ **Skills**
