@@ -27,8 +27,6 @@ Focused on modern UI, smooth UX, and reliable architecture — from frontend to 
 ## 📊 **GitHub Stats**
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=farkhodovislom&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farkhodovislom&theme=radical)
-
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=farkhodovislom&layout=compact&theme=radical&langs_count=10)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farkhodovislom&theme=react-dark)
