@@ -40,5 +40,5 @@ Focused on modern UI, smooth UX, and reliable architecture — from frontend to 
 
 ## 📬 **Contact**
 - 📱 **Telegram:** @Farkhodov_2077  
-- ✉️ **Email:** farkhodovislom2006@gmail.com  
+- ✉️ **Email:** farkhodovislom@icloud.com  
 - 🌐 **Portfolio:** https://hanzo-dev.uz
