@@ -4,7 +4,7 @@
 I build clean, fast, and scalable web applications.  
 Focused on modern UI, smooth UX, and reliable architecture — from frontend to backend and AI systems.
 
-> 🌐 Portfolio: **https://hanzo-dev.uz**
+> 🌐 Portfolio: **https://hanzodev.uz**
 
 ---
 
