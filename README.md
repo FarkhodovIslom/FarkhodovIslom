@@ -1,5 +1,5 @@
 # 👋 **Hanzo — Software Engineer & Full-Stack Developer**  
-### ⚡ Full-Stack • 🎨 UI/UX • 🤖 AI/ML  
+###  Full-Stack • UI/UX • AI/ML  
 
 I build clean, fast, and scalable web applications.  
 Focused on modern UI, smooth UX, and reliable architecture — from frontend to backend and AI systems.
@@ -8,7 +8,7 @@ Focused on modern UI, smooth UX, and reliable architecture — from frontend to 
 
 ---
 
-## ⚙️ **Tech Stack**
+## **Tech Stack**
 **Frontend:** React, Next.js, Vuejs, TailwindCSS, Vite  
 **Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL, Prisma  
 **AI / ML:** OpenAI, HuggingFace, LLMs, Embeddings, Image/Voice Generation  
