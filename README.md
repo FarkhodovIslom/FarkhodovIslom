@@ -1,46 +1,46 @@
-# 👋 **Hanzo — Software Engineer & Full-Stack Developer**  
-###  Full-Stack • UI/UX • AI/ML  
+# 🥷 **Hanzo — Full-Stack & AI Engineer**  
+### Systems • AI Infrastructure • Web Applications
 
-I build clean, fast, and scalable web applications.  
-Focused on modern UI, smooth UX, and reliable architecture — from frontend to backend and AI systems.
+Writing high-performance code, building AI ecosystems, and crafting sharp, minimalist interfaces. No corporate bullshit, just architecture that works.
 
-> 🌐 Portfolio: **https://hanzodev.uz**
-
----
-
-## **Tech Stack**
-**Frontend:** React, Next.js, Vuejs, TailwindCSS, Vite  
-**Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL, Prisma  
-**AI / ML:** OpenAI, HuggingFace, LLMs, Embeddings, Image/Voice Generation  
-**Tools / DevOps:** Docker, Git, Cloudflare, VPS, CI/CD  
-**Other:** GraphQL, REST APIs, WebGL, Discord/Telegram bots
+> 🌐 Portfolio: **https://hanzo-dev.uz**
 
 ---
 
-## 🚀 **Currently Working On**
-- **Sonar AI** — custom LLM-based tools and infrastructure  
-- Full-stack products under the **Hanzo-Dev** brand  
-- AI assistants, automation tools, and performance-oriented web apps
+## 🛠️ **Tech Stack & Arsenal**
+
+* **Languages & Systems:** Go, TypeScript, C, JavaScript, SQL
+* **Frontend:** Next.js, React, TailwindCSS, Vite
+* **Backend:** NestJS, Node.js, PostgreSQL, Prisma, GraphQL
+* **AI / ML:** LLM Fine-Tuning, Custom Agents, AI Infrastructure, OpenAI & HuggingFace
+* **DevOps / Tools:** Docker, Linux, Cloudflare, VPS, Git
 
 ---
 
-## 📊 **GitHub Stats**
-<center>
-  
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=farkhodovislom&show_icons=true&theme=radical)
+## 🚀 **Current Ventures**
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=farkhodovislom&layout=compact&theme=radical&langs_count=10)
-
-</center>
+* **Sonar AI** — Developing a next-gen AI-driven platform and custom IDE ecosystem.
+* **Aitherium** — Leading a core development crew pushing out high-end web & AI products.
 
 ---
 
-## 🛠️ **Skills**
-[![My Skills](https://skillicons.dev/icons?i=figma,vite,html,css,sass,bootstrap,tailwind,js,react,nextjs,vue,ts,nodejs,express,nestjs,mongodb,postgres,prisma,graphql,python,pytorch,docker)](https://skillicons.dev)
+## 📊 **Git Metrics**
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farkhodovislom&show_icons=true&theme=radical" alt="Hanzo's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=farkhodovislom&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
 
 ---
 
-## 📬 **Contact**
-- 📱 **Telegram:** @Farkhodov_2077  
-- ✉️ **Email:** farkhodovislom@icloud.com  
-- 🌐 **Portfolio:** https://hanzo-dev.uz
+## 🧰 **Skills Matrix**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,tailwind,ts,react,nextjs,nodejs,nestjs,postgres,prisma,graphql,go,c,docker)](https://skillicons.dev)
+
+---
+
+## 📬 **Get In Touch**
+
+* 📱 **Telegram:** [@Farkhodov_2077](https://t.me/Farkhodov_2077)  
+* ✉️ **Email:** farkhodovislom@icloud.com
