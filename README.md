@@ -20,7 +20,7 @@ Writing high-performance code, building AI ecosystems, and crafting sharp, minim
 ## ▲ Current Ventures
 
 * **Sonar AI** — Developing a next-gen AI-driven platform and custom IDE ecosystem.
-* **Aitherium** — Leading a core development crew pushing out high-end web & AI products.
+* **Nythera** — Leading a core development crew pushing out high-end web & AI products.
 
 ---
 
