@@ -1,4 +1,4 @@
-# 🥷 **Hanzo — Full-Stack & AI Engineer**  
+# **Hanzo — Full-Stack & AI Engineer**  
 ### Systems • AI Infrastructure • Web Applications
 
 Writing high-performance code, building AI ecosystems, and crafting sharp, minimalist interfaces. No corporate bullshit, just architecture that works.
