@@ -3,7 +3,7 @@
 
 Writing high-performance code, building AI ecosystems, and crafting sharp, minimalist interfaces. No corporate bullshit, just architecture that works.
 
-> 🌐 Portfolio: **https://hanzo-dev.uz**
+> 🌐 Portfolio: **https://hanzodev.uz**
 
 ---
 
