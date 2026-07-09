@@ -34,6 +34,14 @@ Writing high-performance code, building AI ecosystems, and crafting sharp, minim
 
 ---
 
+## ◆ Uzbekistan Committers
+
+<p align="center">
+  <img src="https://user-badge.committers.top/uzbekistan/FarkhodovIslom.svg" alt="Uzbekistan Badge" />
+</p>
+
+---
+
 ## ● Skills Matrix
 
 [![My Skills](https://skillicons.dev/icons?i=figma,vite,tailwind,ts,react,nextjs,nodejs,nestjs,postgres,prisma,graphql,go,c,docker)](https://skillicons.dev)
