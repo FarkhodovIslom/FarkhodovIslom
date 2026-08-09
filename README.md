@@ -1,4 +1,4 @@
-# Hanzo Dev
+# hanzodev
 Systems • AI Infrastructure • Web Applications
 
 **Writing high-performance code. Crafting minimalist interfaces. Building architecture that works.**
