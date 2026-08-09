@@ -6,7 +6,7 @@ Systems • AI Infrastructure • Web Applications
 ---
 
 ### Stack
-* **Core:** Go, C, TypeScript
+* **Core:** TypeScript, Go, C, Python
 * **Infra:** Linux, Docker, Cloudflare, Custom AI Agents, LLM Fine-Tuning
 * **Web:** Next.js, NestJS, PostgreSQL, Prisma
 
